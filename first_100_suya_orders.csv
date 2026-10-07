@@ -1,0 +1,101 @@
+Order_ID,Date,Branch,Item,Quantity,Unit_Price_NGN,Total_NGN,Payment_Method,Customer_Age,Rating,Is_Delivery
+SP101081,2025-08-03,Port Harcourt GRA,Ram Suya,1,2700,2700,Cash,27.0,4.0,No
+SP102241,2025-03-14,Lagos Yaba,Chicken Suya,6,2050,12300,Cash,41.0,5.0,No
+SP102723,2025-11-11,Enugu Ogui,Beef Suya,5,1500,7500,Cash,31.0,5.0,No
+SP101028,2025-03-09,Enugu Ogui,Kilishi,1,2000,2000,POS,22.0,4.0,No
+SP100619,2025-09-07,Kano Sabon Gari,Beef Suya,3,1500,4500,Cash,20.0,5.0,No
+SP100191,2025-04-26,Abuja Wuse,Chicken Suya,1,2000,2000,POS,37.0,4.0,No
+SP102778,2025-10-08,Kaduna Central,Beef Suya,1,1500,1500,Cash,31.0,5.0,No
+SP103280,2025-01-22,Lagos Yaba,Beef Suya,2,1700,3400,Cash,21.0,5.0,No
+SP100602,2025-11-26,Kano Sabon Gari,Beef Suya,2,1500,3000,Cash,29.0,3.0,Yes
+SP100289,2025-05-09,Jos Terminus,Kilishi,2,2000,4000,Cash,26.0,4.0,No
+SP102146,2025-09-17,Kaduna Central,Chicken Suya,1,1800,1800,Transfer,35.0,4.0,No
+SP102643,2025-09-13,Kaduna Central,Ram Suya,2,2500,5000,Transfer,34.0,5.0,No
+SP102494,2025-05-09,Abuja Wuse,Beef Suya,1,1650,1650,Transfer,25.0,4.0,No
+SP104367,2025-05-26,Ibadan Bodija,Gizzard,2,1200,2400,Cash,24.0,5.0,No
+SP101873,2025-12-21,Jos Terminus,Ram Suya,2,2500,5000,Transfer,45.0,4.0,No
+SP102335,2025-08-29,Kano Sabon Gari,Chicken Suya,1,1800,1800,Transfer,27.0,,No
+SP100278,2025-03-27,Kano Sabon Gari,Chicken Suya,4,1800,7200,Cash,40.0,3.0,No
+SP104376,2025-12-20,Port Harcourt GRA,Soft Drink,1,550,550,Cash,37.0,3.0,No
+SP104298,2025-07-05,Enugu Ogui,Chicken Suya,2,1800,3600,POS,21.0,4.0,No
+SP101299,2025-10-05,Lagos Yaba,Chicken Suya,2,2050,4100,POS,31.0,4.0,No
+SP103321,2025-10-12,Port Harcourt GRA,Chicken Suya,1,1950,1950,POS,14.0,5.0,No
+SP104030,2025-07-19,Lagos Yaba,Kilishi,2,2300,4600,Transfer,23.0,4.0,Yes
+SP101369,2025-11-28,Kano Sabon Gari,Soft Drink,3,500,1500,Cash,20.0,5.0,No
+SP102436,2025-07-23,Kaduna Central,Kilishi,2,2000,4000,Cash,28.0,5.0,Yes
+SP100805,2025-09-17,Kaduna Central,Beef Suya,3,1500,4500,Transfer,30.0,5.0,No
+SP103172,2025-08-01,Kaduna Central,Chicken Suya,4,1800,7200,POS,38.0,,No
+SP100748,2025-09-17,Ibadan Bodija,Chicken Suya,1,1800,1800,Transfer,37.0,5.0,No
+SP102962,2025-09-02,Kano Sabon Gari,Beef Suya,1,1500,1500,Cash,43.0,5.0,No
+SP102448,2025-01-28,Kaduna Central,Kilishi,1,2000,2000,Transfer,32.0,4.0,No
+SP102957,2025-04-09,Abuja Wuse,Ram Suya,3,2750,8250,Cash,32.0,5.0,No
+SP103199,2025-12-10,Kano Sabon Gari,Soft Drink,1,500,500,Cash,32.0,5.0,No
+SP100338,2025-04-14,Ibadan Bodija,Beef Suya,5,1500,7500,Transfer,29.0,5.0,No
+SP102433,2025-08-05,Kano Sabon Gari,Beef Suya,1,1500,1500,Cash,26.0,4.0,No
+SP101320,2025-10-04,Lagos Yaba,Kilishi,3,2300,6900,POS,18.0,4.0,No
+SP104316,2025-07-29,Lagos Yaba,Gizzard,3,1400,4200,POS,46.0,3.0,Yes
+SP100541,2025-08-21,Abuja Wuse,Beef Suya,1,1650,1650,Cash,22.0,4.0,No
+SP100243,2025-01-24,Kano Sabon Gari,Beef Suya,3,1500,4500,POS,28.0,3.0,Yes
+SP102627,2025-08-27,Enugu Ogui,Chicken Suya,3,1800,5400,Cash,36.0,,No
+SP100866,2025-06-12,Ibadan Bodija,Beef Suya,2,1500,3000,Cash,43.0,3.0,No
+SP104783,2025-09-26,Jos Terminus,Beef Suya,1,1500,1500,Transfer,30.0,4.0,No
+SP101904,2025-04-18,Jos Terminus,Kilishi,1,2000,2000,POS,36.0,4.0,No
+SP100614,2025-04-03,Kano Sabon Gari,Chicken Suya,4,1800,7200,Cash,27.0,4.0,Yes
+SP100909,2025-12-25,Lagos Yaba,Beef Suya,3,1700,5100,Transfer,,3.0,No
+SP103538,2025-06-03,Port Harcourt GRA,Beef Suya,1,1600,1600,Transfer,30.0,3.0,Yes
+SP101453,2025-10-25,Lagos Yaba,Soft Drink,2,600,1200,POS,30.0,4.0,No
+SP100654,2025-08-10,Lagos Yaba,Chicken Suya,2,2050,4100,Transfer,35.0,3.0,No
+SP102745,2025-03-08,Kano Sabon Gari,Gizzard,3,1200,3600,Cash,31.0,2.0,Yes
+SP102800,2025-10-07,Lagos Yaba,Gizzard,4,1400,5600,Cash,20.0,4.0,Yes
+SP100050,2025-04-28,Kaduna Central,Ram Suya,4,2500,10000,Transfer,39.0,5.0,No
+SP101889,2025-10-08,Kaduna Central,Gizzard,1,1200,1200,Cash,27.0,5.0,No
+SP103059,2025-06-14,Ibadan Bodija,Beef Suya,1,1500,1500,POS,18.0,4.0,Yes
+SP104572,2025-01-28,Jos Terminus,Chicken Suya,3,1800,5400,Cash,14.0,4.0,No
+SP102150,2025-07-13,Port Harcourt GRA,Beef Suya,1,1600,1600,Transfer,22.0,4.0,No
+SP102233,2025-08-28,Kaduna Central,Soft Drink,1,500,500,Transfer,21.0,4.0,No
+SP101390,2025-06-29,Enugu Ogui,Kilishi,2,2000,4000,Transfer,17.0,5.0,No
+SP100607,2025-05-13,Abuja Wuse,Gizzard,2,1300,2600,Cash,33.0,4.0,No
+SP101518,2025-02-05,Enugu Ogui,Ram Suya,1,2500,2500,Transfer,21.0,4.0,No
+SP100185,2025-05-14,Kano Sabon Gari,Ram Suya,2,2500,5000,Cash,45.0,4.0,No
+SP102624,2025-07-14,Kaduna Central,Kilishi,2,2000,4000,Transfer,35.0,5.0,No
+SP102584,2025-04-18,Lagos Yaba,Chicken Suya,5,2050,10250,Transfer,23.0,4.0,No
+SP101488,2025-08-11,Ibadan Bodija,Chicken Suya,85,1800,153000,Cash,22.0,4.0,No
+SP103701,2025-10-22,Lagos Yaba,Chicken Suya,4,2050,8200,Cash,38.0,4.0,Yes
+SP104523,2025-05-11,Kano Sabon Gari,Soft Drink,5,500,2500,Cash,50.0,,No
+SP103366,2025-08-31,Jos Terminus,Beef Suya,1,1500,1500,Cash,33.0,4.0,No
+SP103353,2025-04-10,Kano Sabon Gari,Ram Suya,5,2500,12500,Transfer,19.0,4.0,No
+SP100571,2025-01-16,Lagos Yaba,Beef Suya,5,1700,8500,POS,35.0,3.0,No
+SP100735,2025-04-19,Port Harcourt GRA,Kilishi,2,2150,4300,POS,42.0,4.0,Yes
+SP104643,2025-01-18,Enugu Ogui,Kilishi,1,2000,2000,Cash,15.0,4.0,No
+SP103118,2025-05-30,Abuja Wuse,Chicken Suya,6,2000,12000,Cash,38.0,4.0,No
+SP104591,2025-12-01,Kaduna Central,Ram Suya,2,2500,5000,Cash,40.0,5.0,No
+SP100477,2025-08-30,Lagos Yaba,Chicken Suya,1,2050,2050,POS,18.0,5.0,No
+SP100193,2025-10-28,Kaduna Central,Beef Suya,2,1500,3000,Transfer,,4.0,No
+SP100773,2025-08-14,Enugu Ogui,Chicken Suya,2,1800,3600,Transfer,32.0,4.0,No
+SP104904,2025-03-21,Lagos Yaba,Ram Suya,1,2900,2900,Cash,24.0,5.0,No
+SP102541,2025-06-06,Abuja Wuse,Ram Suya,2,2750,5500,Cash,26.0,4.0,No
+SP101677,2025-10-10,Abuja Wuse,Kilishi,2,2200,4400,Cash,33.0,5.0,No
+SP104145,2025-05-11,Lagos Yaba,Soft Drink,2,600,1200,Cash,37.0,5.0,No
+SP102798,2025-06-05,Abuja Wuse,Ram Suya,3,2750,8250,Transfer,29.0,,No
+SP101791,2025-03-02,Enugu Ogui,Soft Drink,1,500,500,POS,39.0,5.0,No
+SP103439,2025-04-06,Abuja Wuse,Chicken Suya,5,2000,10000,POS,39.0,5.0,No
+SP104551,2025-06-02,Abuja Wuse,Ram Suya,6,2750,16500,Transfer,42.0,3.0,Yes
+SP103314,2025-11-08,Lagos Yaba,Chicken Suya,1,2050,2050,Cash,24.0,5.0,No
+SP100851,2025-05-30,Abuja Wuse,Beef Suya,6,1650,9900,,43.0,4.0,No
+SP101780,2025-06-14,Lagos Yaba,Beef Suya,2,1700,3400,Transfer,30.0,5.0,No
+SP103708,2025-08-29,Lagos Yaba,Gizzard,2,1400,2800,Cash,36.0,3.0,Yes
+SP103043,2025-03-12,Kaduna Central,Kilishi,1,2000,2000,POS,28.0,2.0,Yes
+SP100705,2025-10-12,Enugu Ogui,Beef Suya,3,1500,4500,POS,14.0,4.0,Yes
+SP103304,2025-05-23,Port Harcourt GRA,Beef Suya,1,1600,1600,POS,44.0,3.0,No
+SP101112,2025-01-12,Abuja Wuse,Ram Suya,1,2750,2750,Transfer,36.0,3.0,No
+SP100365,2025-07-15,Kaduna Central,Kilishi,2,2000,4000,Cash,17.0,3.0,No
+SP104083,2025-06-05,Port Harcourt GRA,Beef Suya,2,1600,3200,Cash,35.0,5.0,Yes
+SP101147,2025-01-27,Ibadan Bodija,Chicken Suya,2,1800,3600,Transfer,41.0,3.0,No
+SP101602,2025-07-24,Lagos Yaba,Chicken Suya,1,2050,2050,Cash,35.0,4.0,Yes
+SP103063,2025-10-25,Lagos Yaba,Beef Suya,1,1700,1700,Transfer,25.0,4.0,No
+SP100121,2025-05-26,Kaduna Central,Ram Suya,2,2500,5000,Transfer,16.0,4.0,No
+SP102437,2025-08-26,Ibadan Bodija,Gizzard,1,1200,1200,Transfer,37.0,2.0,Yes
+SP103233,2025-07-17,Kaduna Central,Kilishi,1,2000,2000,Cash,33.0,5.0,No
+SP103497,2025-12-20,Jos Terminus,Beef Suya,1,1500,1500,Cash,29.0,5.0,No
+SP103953,2025-12-09,Abuja Wuse,Beef Suya,1,1650,1650,Transfer,25.0,4.0,Yes
+SP104644,2025-05-10,Lagos Yaba,Kilishi,1,2300,2300,POS,36.0,4.0,Yes
